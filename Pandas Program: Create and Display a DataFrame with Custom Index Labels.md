@@ -18,7 +18,6 @@ To create and display a **DataFrame** using the **Pandas** library in Python fro
 
 ## 💻 Program
 ```
-
 import pandas as pd
 import numpy as np
 
